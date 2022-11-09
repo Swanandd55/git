@@ -6,3 +6,6 @@ then
 fi
 else
 	echo "Pass"
+
+
+echo "Hello"
